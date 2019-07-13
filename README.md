@@ -1,5 +1,32 @@
 # cloudformation-course
-The AWS course.
+Introduction to CloudFormation
+
+This is my first AWS CloudFormation course. 
+
+### Overview (5 minutes)
+* About me
+* This course is for anyone interested in using CloudFormation for AWS automation.
+* To keep the course short and focused, I'm going to teach CloudFormation, not AWS.
+* As a result, I'll use as few AWS services as possible to keep the focus on CloudFormation.
+* All that is needed to complete this course is an AWS account and a browser. No command line is required.
+* As a final project, we'll create and deploy an S3 static website.
+* without further ado, let's get started.
+
+### Prerequisites (2 minutes)
+* Create an AWS account
+
+#### A taste of CloudFormation (2 minutes)
+* Let's create an S3 bucket.
+* Let's destroy the bucket.
+
+#### Basic Template Anatomy
+* Parameters
+* Resources
+* Outputs
+
+#### More Template Anatomy
+* Conditions
+* Mappings
 
 ### Overview
 * About me
