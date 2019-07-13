@@ -19,25 +19,33 @@ This is my first AWS CloudFormation course.
 * CloudFormation is made up of stacks. Stacks are a set of useful things in AWS, like S3 buckets and EC2 instances. We call these useful things "resources" in CloudFormation. All CloudFormation stacks must have at least 1 resource. 
 * CloudFormation resources can be created, updated, and deleted.
 * Create a stack.
-* Update the stack.
 * Delete the stack.
+* Display the deleted stack in the console.
 * Create the stack again.
 * Add a file to the bucket.
 * Try deleting the stack.
 * Delete the file from the bucket.
 * Delete the stack.
 
-#### Basic Template Anatomy
-* Parameters
-* Resources
-* Outputs
+#### Update CloudFormation stack with Parameters
+* This section will discuss creating stack parameters and updating stacks.
+* Discuss parameter types and validation.
 
-#### Create a n
+
+#### 
+
+#### Add a template mapping
+* Create an S3 bucket with different configurations based on parameters. One public bucket and one private bucket.
+
+#### Adding conditionals to templates
+* 
 
 #### More Template Anatomy
 * Conditions
 * Mappings
+* Outputs
 
 #### Final project - your first legit CloudFormation stack
+
 * Create a static S3 website
 
