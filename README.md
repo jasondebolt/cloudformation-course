@@ -15,16 +15,24 @@ This is my first AWS CloudFormation course.
 ### Prerequisites (2 minutes)
 * Create an AWS account
 
-#### A taste of CloudFormation (2 minutes)
-* CloudFormation is made up of stacks. Stacks are a set of useful things in AWS, like S3 buckets and EC2 instances. We call these useful things "resources" in CloudFormation.
-* CloudFormation resources can be created, updated, rolled back, and deleted.
-* Let's create an S3 bucket.
-* Let's destroy the bucket.
+#### Create the most basic CloudFormation stack (5 minutes)
+* CloudFormation is made up of stacks. Stacks are a set of useful things in AWS, like S3 buckets and EC2 instances. We call these useful things "resources" in CloudFormation. All CloudFormation stacks must have at least 1 resource. 
+* CloudFormation resources can be created, updated, and deleted.
+* Create a stack.
+* Update the stack.
+* Delete the stack.
+* Create the stack again.
+* Add a file to the bucket.
+* Try deleting the stack.
+* Delete the file from the bucket.
+* Delete the stack.
 
 #### Basic Template Anatomy
 * Parameters
 * Resources
 * Outputs
+
+#### Create a n
 
 #### More Template Anatomy
 * Conditions
